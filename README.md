@@ -52,3 +52,36 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+
+Answers:
+1. Installing windows 11 was done using the windows11 installation assistant which took me throught the step by step procedure of installing windows 11 on my machine.
+
+2. Installing visual studio code was done by using the official download and launching the installer after download ,followed the prompts in the installer , accepting the license choosing my  install location, complete the installation and launch Visual Studio Code.
+
+3. Setting up version control system: Installing git was done by first searching "git " on my browser , then I intsalled git for windows and followed the prompts for installation, after installation , i launched my git on my local machine .
+To configure my git , I ran the command 'git config --global user.name"my name" ' and also "git config --global user.email "my gmail" ', this made my machine familiar with my account and user info.
+
+4.  Install Necessary Programming Languages and Runtimes: Installing python; I went to the official python website to download the python , I ran the installer , used the default installation path , then installed. To verify the installation , i opened a terminal (powershell) and typed "python --version" to confirm having python in my machine and it returned the version of python i have. 
+
+5. To install 'pip', i ran the "python get-pip.py" command and added the path to my environment variable path
+
+6. Downloading and installing mysql database : downloaded the package from ' https://dev.mysql.com/downloads/installer/ ' , set up installer for windows , followed the prompts and installed, added mysql bin address to my environment and verified mysql on my terminal by running 'mysql -u root -p' , I also installed my workbench and can see my databases and also create a database.
+
+7. Extensions: Downloading extensions from vs code , I downloaded extensions that will be needed for languages e.g , for python , I downloaded pylance , python debugger ,etc. 
+
+
+The challage I faced while installing some of these was being ignorant of the fact that I was supposed  to add my path to the environment variables which I was able to sort after consulting chatgpt.
+
+
+
+
+
+
+
+
+
+
+
